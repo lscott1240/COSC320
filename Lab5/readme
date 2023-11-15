@@ -1,0 +1,3 @@
+g++ -c lab_05.cpp
+g++ -o lab_05 lab_05.o
+./lab_05

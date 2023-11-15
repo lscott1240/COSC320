@@ -1,0 +1,9 @@
+// compile lab06_set.cpp //
+g++ -c lab06_set.cpp
+g++ -o lab06_set lab06_set.o
+./lab06_set
+
+// compile lab06_map.cpp //
+g++ -c lab06_map.cpp
+g++ -o lab06_map lab06_map.o
+./lab06_map
